@@ -1,0 +1,10 @@
+:root{color-scheme:dark;font:16px/1.75 system-ui,sans-serif;background:#131b18;color:#f0eadc}
+*{box-sizing:border-box}
+body{margin:0;padding:40px 20px}
+main{max-width:720px;margin:auto}
+header{border-bottom:1px solid #aa95634f;padding-bottom:20px;margin-bottom:30px}
+.brand{font-weight:800;letter-spacing:.12em;color:#e5bf87;text-decoration:none}
+h1{margin:.3em 0 0;font-size:clamp(26px,7vw,42px);line-height:1.22}
+h2{margin-top:1.7em;font-size:1.24rem;line-height:1.4}
+a{color:#f4d29d;text-underline-offset:.22em}
+footer{border-top:1px solid #aa95634f;padding-top:16px;margin-top:38px}
